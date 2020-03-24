@@ -4,7 +4,7 @@
 
 ### About
 
-Text recognition camera example using SwiftUI, Vision, and VisionKit on iOS  
+Text recognition camera example using SwiftUI, Vision, and VisionKit on iOS.  
   
 This Xcode project was replaced Storyboard with SwiftUI based on Apple Inc.'s SimpleTextRecognition.  
   
