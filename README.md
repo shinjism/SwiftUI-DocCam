@@ -1,13 +1,14 @@
 ## SwiftUI DocCam
 
-<img align="left" src="https://raw.githubusercontent.com/shinjism/Screenshot/master/SwiftUI-DocCam.GIF" width="280">
+<img align="left" src="https://raw.githubusercontent.com/shinjism/Screenshot/master/SwiftUI-DocCam.GIF" width="240">
 
 ### About
 
-This Xcode project was replaced Storyboard with SwiftUI based on Apple Inc.'s SimpleTextRecognition.
+Text recognition camera example using SwiftUI and Vision on iOS.
 
 ### References
 
+This Xcode project was replaced Storyboard with SwiftUI based on Apple Inc.'s SimpleTextRecognition.  
 [Locating and Displaying Recognized Text on a Document](https://developer.apple.com/documentation/vision/locating_and_displaying_recognized_text_on_a_document)
 
 ### License
